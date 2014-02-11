@@ -1,0 +1,26 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-eu-eu_bis.eu-eu_bis.dix -text
+/apertium-eu-eu_bis.eu-eu_bis.t1x -text
+/apertium-eu-eu_bis.eu-eu_bis.t2x -text
+/apertium-eu-eu_bis.eu-eu_bis.t3x -text
+/apertium-eu-eu_bis.eu.dix -text
+/apertium-eu-eu_bis.eu.tsx -text
+/apertium-eu-eu_bis.eu_bis-eu.t1x -text
+/apertium-eu-eu_bis.eu_bis-eu.t2x -text
+/apertium-eu-eu_bis.eu_bis-eu.t3x -text
+/apertium-eu-eu_bis.eu_bis.dix -text
+/apertium-eu-eu_bis.eu_bis.tsx -text
+/apertium-eu-eu_bis.post-eu.dix -text
+/apertium-eu-eu_bis.post-eu_bis.dix -text
+/autogen.sh -text
+/configure.ac -text
+/eu-eu_bis.prob -text
+/eu_bis-eu.prob -text
+/modes.xml -text
+/testvoc-eu-eu.sh -text
