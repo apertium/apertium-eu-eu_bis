@@ -4,15 +4,12 @@
 
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-eu-es], [0.3.1], [sortiz@users.sourceforge.net])
-AM_INIT_AUTOMAKE([apertium-eu-es], [0.3.1], no-define)
-AC_PROG_LN_S
+AC_INIT([Apertium Basque-Biscayan Basque], [0.3.1], [sortiz@users.sourceforge.net], [apertium-eu-eu_bis])
+AM_INIT_AUTOMAKE
 AC_PROG_AWK
-AC_CONFIG_HEADER([config])
 
-m4_define([required_apertium_version], [3.2.0])
-PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
-                          
+PKG_CHECK_MODULES(APERTIUM, apertium >= 3.6.1)
+PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= 3.5.1)
 
 
 AC_PATH_PROG(XSLTPROC, xsltproc, no)
@@ -25,5 +22,6 @@ then
   AC_MSG_ERROR([You don't have xsltproc installed.])
 fi
 
+AP_MKINCLUDE
 
 AC_OUTPUT([Makefile])
