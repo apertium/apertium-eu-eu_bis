@@ -1,0 +1,48 @@
+[0mfNhHl1cohg#0] ^Nom_adj_det_post<SN><sg>{^auto<n>$ ^gorri<adj><izo>$ ^hori<det><dem><sg>+k<post>$}$ ^pp<SV><pp>{^jo<vblex><2>$}$ ^default<default>{^ukan<vbsint><pri><NR_NI><NK_HU>$}$
+[/0mfNhHl1cohg]
+[5FF5Zg6Gz-wv#0] ^Adv<ADV>{^oharkabe<adv>$}$
+[/5FF5Zg6Gz-wv]
+[6VRiuBhWWAXZ#0] ^unknown<unknown>{^*domekea$}$
+[/6VRiuBhWWAXZ]
+[6swQfHOADrFL#0] ^default<default>{^Eskola<n>$}$ ^Adj_art_post<SP><ERG><sg>{^apal<adj><izo>+a<det><art><sg>+k<post>$}$ ^unknown<unknown>{^*ei$}$ ^unknown<unknown>{^*ziran$}$^default<default>{^,<cm>$}$ ^default<default>{^ber<prn><pers><p3><pl>$}$ ^unknown<unknown>{^*dinoanez$}$^default<default>{^.<sent>$}$
+[/6swQfHOADrFL]
+[9RPB4FglEXgh#0] ^unknown<unknown>{^*zehaztubako$}$
+[/9RPB4FglEXgh]
+[GEejeeD99zY-#0] ^default<default>{^abadetu<vblex><inf>$}$
+[/GEejeeD99zY-]
+[HYJf5_w6pjnU#0] ^Adv<ADV>{^gaizki<adv>$}$
+[/HYJf5_w6pjnU]
+[IQIeYszeN5xZ#0] ^unknown<unknown>{^*damubako$}$
+[/IQIeYszeN5xZ]
+[LugX231Hf8ra#0] ^Pp<SV><pp>{^aurreikusi<vblex><2>$}$
+[/LugX231Hf8ra]
+[OpOK4aNxF8FZ#0] ^unknown<unknown>{^*adierazo$}$ ^unknown<unknown>{^*abiarazo$}$ ^default<default>{^etorri<n>$}$ ^default<default>{^etorri<vblex><pfut>$}$
+[/OpOK4aNxF8FZ]
+[QcDGuQnawWzj#0] ^unknown<unknown>{^*abiarazo$}$
+[/QcDGuQnawWzj]
+[S8jvEz0CEfWk#0] ^Pp<SV><pp>{^zapatu<vblex><2>$}$^default<default>{^,<cm>$}$ ^adj_art<SN><sg>{^zapatu<vblex><pp>+a<det><art><sg>$}$
+[/S8jvEz0CEfWk]
+[SO6KJ5_jrv5C#0] ^default<default>{^berbatu<vblex><inf>$}$
+[/SO6KJ5_jrv5C]
+[TwPrXVaw-dU1#0] ^unknown<unknown>{^*Etortea$}$
+[/TwPrXVaw-dU1]
+[VpqbaOgq1r-4#0] ^Nom_art<SN><sg>{^urtarril<n>+a<det><art><sg>$}$
+[/VpqbaOgq1r-4]
+[X9euf-ko_Z5q#0] ^default<default>{^Ume<n>$}$ ^Det_post<SP><ERG>{^hauek<det><dem><pl>+k<post>$}$ ^pp<SV><pp>{^zoratu<vblex><2>$}$ ^default<default>{^egin<n>$}$ ^default<default>{^behar<adj><izo>$}$ ^default<default>{^nabe<n>$}$
+[/X9euf-ko_Z5q]
+[XRCFqZu07Ijm#0] ^unknown<unknown>{^*martitzen$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*martitzena$}$
+[/XRCFqZu07Ijm]
+[bXSIorAlwDgO#0] ^unknown<unknown>{^*adimenbako$}$
+[/bXSIorAlwDgO]
+[hoy9i5F--nwr#0] ^Vb_art<SN><izen><sg>{^esan<vblex><izen>+a<det><art><sg>$}$ ^vb_art<SN><izen><sg>{^ibili<vblex><izen>+a<det><art><sg>$}$ ^unknown<unknown>{^*ibilten$}$ ^default<default>{^etorri<vblex><ger>$}$ ^unknown<unknown>{^*izetea$}$
+[/hoy9i5F--nwr]
+[kINmS72JnPPq#0] ^unknown<unknown>{^*adierazo$}$
+[/kINmS72JnPPq]
+[uB4zlPo2OgFu#0] ^unknown<unknown>{^*etxebako$}$
+[/uB4zlPo2OgFu]
+[uqH01t4oNkbR#0] ^Nom_det_post<SN><sg>{^gizon<n>$ ^hori<det><dem><sg>+ekin<post>$}$
+[/uqH01t4oNkbR]
+[vbPK38ZIPM6F#0] ^Det_post<SP><ERG>{^hori<det><dem><sg>+k<post>$}$ ^unknown<unknown>{^*mutilorrek$}$
+[/vbPK38ZIPM6F]
+[xSPPEJWrmp9e#0] ^unknown<unknown>{^*legebako$}$
+[/xSPPEJWrmp9e]

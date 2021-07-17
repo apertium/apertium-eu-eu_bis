@@ -1,0 +1,18 @@
+{
+    "eu-eu_bis-pending": {
+        "input": "eu-eu_bis-pending-input.txt",
+        "mode": "eu-eu_bis"
+    },
+    "eu-eu_bis-regression": {
+        "input": "eu-eu_bis-regression-input.txt",
+        "mode": "eu-eu_bis"
+    },
+    "eu_bis-eu-pending": {
+        "input": "eu_bis-eu-pending-input.txt",
+        "mode": "eu_bis-eu"
+    },
+    "eu_bis-eu-regression": {
+        "input": "eu_bis-eu-regression-input.txt",
+        "mode": "eu_bis-eu"
+    }
+}

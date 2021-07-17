@@ -1,0 +1,130 @@
+[-r7TplLU6EWc#0] ^gintzaizkizun/izan<vbsint><pii><NR_GU><NI_ZU>$
+[/-r7TplLU6EWc]
+[-wZgn-HmB6Om#0] ^Frontoi/*Frontoi$ ^berrian/berri<n>+a<det><art><sg>+an<post>/berri<adj><izo>+a<det><art><sg>+an<post>$ ^izan/izan<n>/izan<vblex><inf>/izan<vblex><pp>$ ^dira/izan<vbsint><pri><NR_HK>$ ^gaur/gaur<adv>$ ^materiala/material<n>+a<det><art><sg>/material<adj><izo>+a<det><art><sg>$ ^aukeratzen/aukeratu<vblex><ger>$^./.<sent>$
+[/-wZgn-HmB6Om]
+[1ipfrjEN0NWz#0] ^adierazi/adierazi<vblex><pp>$ ^abiarazi/*abiarazi$ ^etorri/etorri<vblex><pp>/etorri<n>$ ^etorriko/etorri<vblex><pfut>/etorri<n>+a<det><art><sg>+ko<post>$
+[/1ipfrjEN0NWz]
+[2-YJcRHN9Xcg#0] ^Kasurik/Kasu<n>+ik<post>$ ^ez/ez<adv>$ ^egitearekin/egin<vblex><izen>+a<det><art><sg>+ekin<post>/egite<n>+a<det><art><sg>+ekin<post>$^./.<sent>$
+[/2-YJcRHN9Xcg]
+[3n2k1Y2uHWh3#0] ^aurreikusita/aurreikusi<vblex><padv>$
+[/3n2k1Y2uHWh3]
+[43igT51Y9lSx#0] ^abuztua/abuztu<n>+a<det><art><sg>$
+[/43igT51Y9lSx]
+[4CpSxS5IdWQj#0] ^Zapatak/Zapata<n>+k<post>/Zapata<n>+a<det><art><pl>/Zapata<n>+a<det><art><sg>+k<post>$ ^erostera/erosi<vblex><izen>+ra<post>$ ^zoazte/joan<vbsint><pri><NR_ZK>/joan<vbsint><imp><NR_ZK>$
+[/4CpSxS5IdWQj]
+[50zF-jWMPcyD#0] ^Azpeitiko/Azpeitia<np><loc>+ko<post>$ ^urtegian/urtegi<n>+a<det><art><sg>+an<post>$ ^hilik/hilik<adv>/hil<n>+ik<post>/hil<vblex><pp>+ik<post>$ ^agertutako/agertu<vblex><padv>+ko<post>$ ^emakumeak/emakume<n>+a<det><art><pl>/emakume<n>+a<det><art><sg>+k<post>$ ^tiro/tiro<n>$ ^bat/bat<num><sg>/batu<vblex><inf>$ ^du/ukan<vbsint><pri><NR_HU><NK_HU>$^,/,<cm>$ ^lekukoen/lekuko<n>+a<det><art><pl>+en<post>$ ^arabera/arabera<spost>$^./.<sent>$
+[/50zF-jWMPcyD]
+[5vYyWmFyUw94#0] ^Nik/Ni<prn><pers><p1><sg>+k<post>$ ^eduki/eduki<n>/eduki<vblex><inf>/eduki<vblex><pp>$ ^dudan/ukan<vbsint><pri><NR_HU><NK_NI>+n<rel>/duda<n>+a<det><art><sg>+an<post>$ ^hoberena/hobe<adj><izo>+en<post>+a<det><art><sg>/hobe<adj><izo>+en<gra><sup>+a<det><art><sg>$ ^taldekideak/taldekide<n>+a<det><art><pl>/taldekide<n>+a<det><art><sg>+k<post>$ ^dira/izan<vbsint><pri><NR_HK>$
+[/5vYyWmFyUw94]
+[6XY7tN4bGZIU#0] ^dugu/ukan<vbsint><pri><NR_HU><NK_GU>$
+[/6XY7tN4bGZIU]
+[77VJCVqQrK8b#0] ^gatzaizkio/izan<vbsint><pri><NR_GU><NI_HU>$
+[/77VJCVqQrK8b]
+[8EsLw8NgkUjW#0] ^Zapatak/Zapata<n>+k<post>/Zapata<n>+a<det><art><pl>/Zapata<n>+a<det><art><sg>+k<post>$ ^erostera/erosi<vblex><izen>+ra<post>$ ^joan/joan<vblex><inf>/joan<vblex><pp>$ ^naiz/izan<vbsint><pri><NR_NI>$
+[/8EsLw8NgkUjW]
+[8F5gfy0_rSTw#0] ^gaituzte/ukan<vbsint><pri><NR_GU><NK_HK>$
+[/8F5gfy0_rSTw]
+[8u7YcNqBUuSP#0] ^iraila/irail<n>+a<det><art><sg>$
+[/8u7YcNqBUuSP]
+[BVpdfZTm0ZtY#0] ^naiz/izan<vbsint><pri><NR_NI>$
+[/BVpdfZTm0ZtY]
+[DcKESZS9S7nX#0] ^Pilotariak/*Pilotariak$ ^eta/eta<cnjcoo>$ ^jarraitzaileak/jarraitzaile<n>+a<det><art><pl>/jarraitzaile<n>+a<det><art><sg>+k<post>$ ^gustura/gustura<adv>/gustu<n>+a<det><art><sg>+ra<post>$ ^agertu/agertu<vblex><pp>$ ^dira/izan<vbsint><pri><NR_HK>$ ^Bilboko/Bilbo<np><loc>+ko<post>$ ^Miribila/*Miribila$ ^auzoko/auzoko<n>/auzo<n>+a<det><art><sg>+ko<post>$ ^pilotaleku/pilotaleku<n>$ ^berriarekin/berri<n>+a<det><art><sg>+ekin<post>/berri<adj><izo>+a<det><art><sg>+ekin<post>$^./.<sent>$
+[/DcKESZS9S7nX]
+[FY5C9Qq_ZjnS#0] ^Kasurik/Kasu<n>+ik<post>$ ^ez/ez<adv>$ ^egitearekin/egin<vblex><izen>+a<det><art><sg>+ekin<post>/egite<n>+a<det><art><sg>+ekin<post>$^,/,<cm>$ ^eginda/egin<vblex><padv>$ ^daukazu/eduki<vbsint><pri><NR_HU><NK_ZU>$
+[/FY5C9Qq_ZjnS]
+[H5ut43CGeh6x#0] ^hinduten/ukan<vbsint><pii><NR_HI><NK_HK>$
+[/H5ut43CGeh6x]
+[HQJQG8MOOEwU#0] ^abendua/abendu<n>+a<det><art><sg>$
+[/HQJQG8MOOEwU]
+[HS8QjXa_Dmd0#0] ^asteazken/asteazken<n>$^,/,<cm>$ ^asteazkena/asteazken<n>+a<det><art><sg>$
+[/HS8QjXa_Dmd0]
+[HYJf5_w6pjnU#0] ^gaizki/gaizki<n>/gaizki<adv>/gaizkitu<vblex><inf>$
+[/HYJf5_w6pjnU]
+[HfRedsp60Mij#0] ^Pauen/Paue<np><loc>+an<post>$ ^egon/egon<vblex><inf>/egon<vblex><pp>$ ^behar dugu/behar izan<vbper><pri><NR_HU><NK_GU>$^,/,<cm>$ ^tokiko/tokikotu<vblex><inf>/toki<n>+a<det><art><sg>+ko<post>$ ^dinamikari/dinamika<n>+i<post>/dinamika<n>+a<det><art><sg>+i<post>$ ^segida/segida<n>/segida<n>+a<det><art><sg>$ ^emateko/eman<vblex><izen>+ko<post>$^./.<sent>$
+[/HfRedsp60Mij]
+[IrM-JHULQptA#0] ^astelehen/astelehen<n>$^,/,<cm>$ ^astelehena/astelehen<n>+a<det><art><sg>$
+[/IrM-JHULQptA]
+[K-3YHDxkPpBe#0] ^urria/urri<n>+a<det><art><sg>/urri<adj><izo>+a<det><art><sg>$
+[/K-3YHDxkPpBe]
+[K3SnmZ-yD06a#0] ^kasurik/kasu<n>+ik<post>$ ^ez/ez<adv>$ ^egitearekin/egin<vblex><izen>+a<det><art><sg>+ekin<post>/egite<n>+a<det><art><sg>+ekin<post>$^./.<sent>$
+[/K3SnmZ-yD06a]
+[KSy69mRYvcM9#0] ^ostegun/ostegun<n>$^,/,<cm>$ ^osteguna/ostegun<n>+a<det><art><sg>$
+[/KSy69mRYvcM9]
+[KTq1i-_L9TiU#0] ^Euskara/Euskara<n>/Euskara<n>+a<det><art><sg>$ ^nire/ni<prn><pers><p1><sg>+en<post>$ ^bizitzan/bizitza<n>+a<det><art><sg>+an<post>$
+[/KTq1i-_L9TiU]
+[LugX231Hf8ra#0] ^aurreikusi/aurreikusi<vblex><pp>$
+[/LugX231Hf8ra]
+[MUrTTIzUye5S#0] ^martxoa/martxo<n>+a<det><art><sg>$
+[/MUrTTIzUye5S]
+[NT3MMIT6uiFm#0] ^apaiz/apaiz<n>/apaiztu<vblex><inf>$
+[/NT3MMIT6uiFm]
+[QAfvlx6UrpLy#0] ^hitz/hitz<n>$
+[/QAfvlx6UrpLy]
+[RI-IO8LjFgNx#0] ^horzgabe/*horzgabe$
+[/RI-IO8LjFgNx]
+[RU_HPPVUpjdd#0] ^abiarazi/*abiarazi$
+[/RU_HPPVUpjdd]
+[RhL_254kzaKV#0] ^ganoragabe/*ganoragabe$
+[/RhL_254kzaKV]
+[Rw6znswAjGcD#0] ^zaizkizu/izan<vbsint><pri><NR_HK><NI_ZU>$
+[/Rw6znswAjGcD]
+[S4Dp2NpwilMp#0] ^ostiral/ostiral<n>$^,/,<cm>$ ^ostirala/ostiral<n>+a<det><art><sg>$
+[/S4Dp2NpwilMp]
+[VnEAUGZQRRH2#0] ^gizon/gizon<n>$ ^horrekin/hori<det><dem><sg>+ekin<post>$
+[/VnEAUGZQRRH2]
+[Vqk53-If88VO#0] ^Teilatupe/*Teilatupe$ ^berean/bera<adj><izo>+an<post>/bera<adj><izo>+en<post>+a<det><art><sg>+an<post>$ ^bizi ginen/bizi izan<vbper><pii><NR_GU>$ ^hiru/hiru<n>/hiru<num><pl>$ ^familiok/familia<n>+o<det><art><pl>/familia<n>+o<det><art><pl>+k<post>$ ^ginen/izan<vbsint><pii><NR_GU>$ ^euskaldun/euskaldun<n>/euskaldun<adj><izo>/euskaldundu<vblex><inf>$ ^garbiak/garbi<adj><izo>+a<det><art><pl>/garbi<adj><izo>+a<det><art><sg>+k<post>$^./.<sent>$
+[/Vqk53-If88VO]
+[WffHWcrK6Ykc#0] ^maiatza/maiatz<n>+a<det><art><sg>$
+[/WffHWcrK6Ykc]
+[XngcpYGrIIPb#0] ^ekaina/ekain<n>+a<det><art><sg>$
+[/XngcpYGrIIPb]
+[Z1blbWl3JPCL#0] ^Gure/Gu<prn><pers><p1><pl>+en<post>$ ^auzoan/auzoan<adv>/auzo<n>+a<det><art><sg>+an<post>$ ^nire/ni<prn><pers><p1><sg>+en<post>$ ^umetako/ume<n>+ko<post>$ ^lagun/lagun<n>/lagun<adj><izo>/lagundu<vblex><inf>$ ^guztiak/guzti<det><ind><pl>/guzti<det><ind><sg>+k<post>$ ^ere/ere<adv>$ ^neure/neuretu<vblex><inf>/neu<prn><pers><p1><sg>+en<post>$ ^antzera/hantu<vblex><izen>+ra<post>/antzera<spost>/antzeratu<vblex><inf>/antz<n>+a<det><art><sg>+ra<post>$ ^zeuden/egon<vbsint><pii><NR_HK>/egon<vbsint><pri><NR_HK><NO>$^./.<sent>$
+[/Z1blbWl3JPCL]
+[_oEbQaFWWUnU#0] ^igandea/igande<n>+a<det><art><sg>$
+[/_oEbQaFWWUnU]
+[agGsQfWHemJd#0] ^fedegabe/fedegabe<n>/fedegabe<adj><izo>$
+[/agGsQfWHemJd]
+[bgbHUbaks1At#0] ^Hemendik/Hemen<adv>+tik<post>$ ^aurrera/aurreratu<vblex><inf>/aurrera<adv><gen>$ ^erritmoa/erritmo<n>+a<det><art><sg>$ ^jaitsiko/jaitsi<vblex><pfut>$ ^dut/ukan<vbsint><pri><NR_HU><NK_NI>$
+[/bgbHUbaks1At]
+[cerOruMLhIBR#0] ^esatea/esan<vblex><izen>+a<det><art><sg>$ ^ibiltzea/ibili<vblex><izen>+a<det><art><sg>$ ^ibiltzen/ibili<vblex><ger>$ ^etortzen/etorri<vblex><ger>$ ^izatea/izan<vblex><izen>+a<det><art><sg>$
+[/cerOruMLhIBR]
+[ewdBgrQvUs8Q#0] ^otsaila/otsail<n>+a<det><art><sg>$
+[/ewdBgrQvUs8Q]
+[fsRVEk1cM6yY#0] ^kemengabe/*kemengabe$
+[/fsRVEk1cM6yY]
+[g6Bl6tzV30pF#0] ^zarete/izan<vbsint><pri><NR_ZK>$
+[/g6Bl6tzV30pF]
+[gOGA2YwFBkhB#0] ^Ezker/Ezker<n>/Ezker<adj><izo>$ ^belaunean/belaun<n>+a<det><art><sg>+an<post>$ ^tendinitisa/*tendinitisa$ ^du/ukan<vbsint><pri><NR_HU><NK_HU>$ ^iberoarrak/*iberoarrak$^,/,<cm>$ ^baita/*baita$ ^bi/bi<num><pl>$ ^eskuetan/esku<n>+a<det><art><pl>+an<post>$ ^ere/ere<adv>$^./.<sent>$
+[/gOGA2YwFBkhB]
+[hIByt9EvCILO#0] ^Mesedea/Mesede<n>+a<det><art><sg>$ ^eskatuz/eskatu<vblex><pp>+z<post>$ ^gero/gero<n>/gero<adv>/gero<spost>$^,/,<cm>$ ^egingo/egin<vblex><pfut>$ ^dizu/ukan<vbsint><pri><NR_HU><NI_ZU><NK_HU>$^./.<sent>$
+[/hIByt9EvCILO]
+[hvuB8SUwmfu1#0] ^apirila/apiril<n>+a<det><art><sg>$
+[/hvuB8SUwmfu1]
+[jR1jTHm9Ll7U#0] ^adigabe/*adigabe$
+[/jR1jTHm9Ll7U]
+[kUYaAbb3RIbp#0] ^zinen/izan<vbsint><pii><NR_ZU>$
+[/kUYaAbb3RIbp]
+[kuSszT1B1j_n#0] ^zen/izan<vbsint><pii><NR_HU>/zendu<vblex><inf>$
+[/kuSszT1B1j_n]
+[l3Oa9Xj27YEk#0] ^azaroa/azaro<n>+a<det><art><sg>$
+[/l3Oa9Xj27YEk]
+[mukVCCiTvDvK#0] ^Olaizola/*Olaizola$ ^II/II<adj><izl><rom>$^./.<sent>$^a/*a$-^Begino/*Begino$ ^eta/eta<cnjcoo>$ ^Irujo/*Irujo$-^Merino/*Merino$ ^II/II<adj><izl><rom>$^./.<sent>$^a/*a$ ^bikoteek/bikote<n>+a<det><art><pl>+k<post>$ ^larunbatean/larunbat<n>+a<det><art><sg>+an<post>$ ^han/han<adv>$ ^jokatuko/jokatu<vblex><pfut>$ ^dute/ukan<vbsint><pri><NR_HU><NK_HK>$ ^Binakako/*Binakako$ ^Txapelketako/Txapelketa<n>+a<det><art><sg>+ko<post>$ ^lehen/lehen<n>/lehen<adj><izl>/lehen<adv>$ ^finalerdia/finalerdi<n>+a<det><art><sg>$^./.<sent>$
+[/mukVCCiTvDvK]
+[njjfMvWLd6KH#0] ^burugabe/burugabe<adj><izo>/burugabetu<vblex><inf>$
+[/njjfMvWLd6KH]
+[o2OicTml9dJ6#0] ^Teilatupe/*Teilatupe$ ^berean/bera<adj><izo>+an<post>/bera<adj><izo>+en<post>+a<det><art><sg>+an<post>$ ^bizi ginen/bizi izan<vbper><pii><NR_GU>$ ^hiru/hiru<n>/hiru<num><pl>$ ^familiok/familia<n>+o<det><art><pl>/familia<n>+o<det><art><pl>+k<post>$ ^hirurak/hiru<num><pl>+a<det><art><pl>$ ^ginen/izan<vbsint><pii><NR_GU>$ ^euskaldun/euskaldun<n>/euskaldun<adj><izo>/euskaldundu<vblex><inf>$ ^garbiak/garbi<adj><izo>+a<det><art><pl>/garbi<adj><izo>+a<det><art><sg>+k<post>$^./.<sent>$
+[/o2OicTml9dJ6]
+[pBbpynhbSqAR#0] ^astearte/astearte<n>$^,/,<cm>$ ^asteartea/astearte<n>+a<det><art><sg>$
+[/pBbpynhbSqAR]
+[qMgyUxEFKz-Z#0] ^dizut/ukan<vbsint><pri><NR_HU><NI_ZU><NK_NI>$
+[/qMgyUxEFKz-Z]
+[quoZq4707s8Y#0] ^Orduko/Orduko<adv>/Orduko<adj><izl>/Ordu<n>+a<det><art><sg>+ko<post>$ ^seminarioan/*seminarioan$ ^pausu/*pausu$ ^hori/hori<det><dem><sg>$ ^ematea/eman<vblex><izen>+a<det><art><sg>$ ^ez/ez<adv>$ ^zen/izan<vbsint><pii><NR_HU>/zendu<vblex><inf>$ ^makala/*makala$^./.<sent>$
+[/quoZq4707s8Y]
+[qw42uj9v8Fi6#0] ^Bai/Bai<adv>$ ^etxean/etxe<n>+a<det><art><sg>+an<post>$ ^eta/eta<cnjcoo>$ ^bai/bai<adv>$ ^auzoan/auzoan<adv>/auzo<n>+a<det><art><sg>+an<post>$ ^ez/ez<adv>$ ^genuen/ukan<vbsint><pii><NR_HU><NK_GU>$ ^besterik/beste<adj><izl>+ik<post>$ ^egiten/egin<vblex><ger>$^./.<sent>$
+[/qw42uj9v8Fi6]
+[u0M94XmZjx0j#0] ^adierazi/adierazi<vblex><pp>$
+[/u0M94XmZjx0j]
+[xPsBIlWOufSR#0] ^Erritmoa/Erritmo<n>+a<det><art><sg>$ ^jaitsiko/jaitsi<vblex><pfut>$ ^dut/ukan<vbsint><pri><NR_HU><NK_NI>$^./.<sent>$
+[/xPsBIlWOufSR]
+[z6y_gKkkS44V#0] ^Edurne/*Edurne$ ^Pasaban/*Pasaban$ ^mendizaleari/mendizale<n>+a<det><art><sg>+i<post>$ ^egindako/egin<vblex><padv>+ko<post>$ ^elkarrizketa/elkarrizketa<n>/elkarrizketatu<vblex><inf>/elkarrizketa<n>+a<det><art><sg>$ ^argitaratuko/argitaratu<vblex><pfut>$ ^du/ukan<vbsint><pri><NR_HU><NK_HU>$ ^bihar/bihar<adv>$ ^BERRIAk/Berri<n>+a<det><art><pl>/Berri<adj><izo>+a<det><art><pl>/Berri<n>+a<det><art><sg>+k<post>/Berri<adj><izo>+a<det><art><sg>+k<post>$^./.<sent>$
+[/z6y_gKkkS44V]

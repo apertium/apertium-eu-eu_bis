@@ -1,0 +1,48 @@
+[0mfNhHl1cohg#0] ^Hori<det><dem><sg>$ ^k<post>$ ^auto<n>$ ^gorri<adj><izo>$ ^a<det><art><sg>$ ^k<post>$ ^jo<vblex><pp>$ ^ukan<vbsint><pri><NR_NI><NK_HU>$
+[/0mfNhHl1cohg]
+[5FF5Zg6Gz-wv#0] ^oharkabe<adv>$
+[/5FF5Zg6Gz-wv]
+[6VRiuBhWWAXZ#0] ^*domekea$
+[/6VRiuBhWWAXZ]
+[6swQfHOADrFL#0] ^Eskola<n>$ ^apal<adj><izo>$ ^a<det><art><sg>$ ^k<post>$ ^*ei$ ^*ziran$^,<cm>$ ^ber<prn><pers><p3><pl>$ ^*dinoanez$^.<sent>$
+[/6swQfHOADrFL]
+[9RPB4FglEXgh#0] ^*zehaztubako$
+[/9RPB4FglEXgh]
+[GEejeeD99zY-#0] ^abadetu<vblex><inf>$
+[/GEejeeD99zY-]
+[HYJf5_w6pjnU#0] ^gaizki<adv>$
+[/HYJf5_w6pjnU]
+[IQIeYszeN5xZ#0] ^*damubako$
+[/IQIeYszeN5xZ]
+[LugX231Hf8ra#0] ^aurreikusi<vblex><pp>$
+[/LugX231Hf8ra]
+[OpOK4aNxF8FZ#0] ^*adierazo$ ^*abiarazo$ ^etorri<n>$ ^etorri<vblex><pfut>$
+[/OpOK4aNxF8FZ]
+[QcDGuQnawWzj#0] ^*abiarazo$
+[/QcDGuQnawWzj]
+[S8jvEz0CEfWk#0] ^zapatu<vblex><pp>$^,<cm>$ ^zapatu<vblex><pp>$ ^a<det><art><sg>$
+[/S8jvEz0CEfWk]
+[SO6KJ5_jrv5C#0] ^berbatu<vblex><inf>$
+[/SO6KJ5_jrv5C]
+[TwPrXVaw-dU1#0] ^*Etortea$
+[/TwPrXVaw-dU1]
+[VpqbaOgq1r-4#0] ^urtarril<n>$ ^a<det><art><sg>$
+[/VpqbaOgq1r-4]
+[X9euf-ko_Z5q#0] ^Ume<n>$ ^honeek<det><dem><pl>$ ^k<post>$ ^zoratu<vblex><pp>$ ^egin<n>$ ^behar<adj><izo>$ ^nabe<n>$
+[/X9euf-ko_Z5q]
+[XRCFqZu07Ijm#0] ^*martitzen$^,<cm>$ ^*martitzena$
+[/XRCFqZu07Ijm]
+[bXSIorAlwDgO#0] ^*adimenbako$
+[/bXSIorAlwDgO]
+[hoy9i5F--nwr#0] ^esan<vblex><izen>$ ^a<det><art><sg>$ ^ibili<vblex><izen>$ ^a<det><art><sg>$ ^*ibilten$ ^etorri<vblex><ger>$ ^*izetea$
+[/hoy9i5F--nwr]
+[kINmS72JnPPq#0] ^*adierazo$
+[/kINmS72JnPPq]
+[uB4zlPo2OgFu#0] ^*etxebako$
+[/uB4zlPo2OgFu]
+[uqH01t4oNkbR#0] ^Hori<det><dem><sg>$ ^gaz<post>$ ^gizon<n>$ ^a<det><art><sg>$ ^gaz<post>$
+[/uqH01t4oNkbR]
+[vbPK38ZIPM6F#0] ^Hori<det><dem><sg>$ ^k<post>$ ^*mutilorrek$
+[/vbPK38ZIPM6F]
+[xSPPEJWrmp9e#0] ^*legebako$
+[/xSPPEJWrmp9e]

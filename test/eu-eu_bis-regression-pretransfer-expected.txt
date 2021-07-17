@@ -1,0 +1,130 @@
+[-r7TplLU6EWc#0] ^izan<vbsint><pii><NR_GU><NI_ZU>$
+[/-r7TplLU6EWc]
+[-wZgn-HmB6Om#0] ^*Frontoi$ ^berri<adj><izo>$ ^a<det><art><sg>$ ^an<post>$ ^izan<vblex><pp>$ ^izan<vbsint><pri><NR_HK>$ ^gaur<adv>$ ^material<adj><izo>$ ^a<det><art><sg>$ ^aukeratu<vblex><ger>$^.<sent>$
+[/-wZgn-HmB6Om]
+[1ipfrjEN0NWz#0] ^adierazi<vblex><pp>$ ^*abiarazi$ ^etorri<n>$ ^etorri<vblex><pfut>$
+[/1ipfrjEN0NWz]
+[2-YJcRHN9Xcg#0] ^Kasu<n>$ ^ik<post>$ ^ez<adv>$ ^egin<vblex><izen>$ ^a<det><art><sg>$ ^ekin<post>$^.<sent>$
+[/2-YJcRHN9Xcg]
+[3n2k1Y2uHWh3#0] ^aurreikusi<vblex><padv>$
+[/3n2k1Y2uHWh3]
+[43igT51Y9lSx#0] ^abuztu<n>$ ^a<det><art><sg>$
+[/43igT51Y9lSx]
+[4CpSxS5IdWQj#0] ^Zapata<n>$ ^a<det><art><pl>$ ^erosi<vblex><izen>$ ^ra<post>$ ^joan<vbsint><pri><NR_ZK>$
+[/4CpSxS5IdWQj]
+[50zF-jWMPcyD#0] ^Azpeitia<np><loc>$ ^ko<post>$ ^urtegi<n>$ ^a<det><art><sg>$ ^an<post>$ ^hil<vblex><pp>$ ^ik<post>$ ^agertu<vblex><padv>$ ^ko<post>$ ^emakume<n>$ ^a<det><art><sg>$ ^k<post>$ ^tiro<n>$ ^bat<num><sg>$ ^ukan<vbsint><pri><NR_HU><NK_HU>$^,<cm>$ ^lekuko<n>$ ^a<det><art><pl>$ ^en<post>$ ^arabera<spost>$^.<sent>$
+[/50zF-jWMPcyD]
+[5vYyWmFyUw94#0] ^Ni<prn><pers><p1><sg>$ ^k<post>$ ^eduki<vblex><pp>$ ^ukan<vbsint><pri><NR_HU><NK_NI>$ ^n<rel>$ ^hobe<adj><izo>$ ^en<post>$ ^a<det><art><sg>$ ^taldekide<n>$ ^a<det><art><pl>$ ^izan<vbsint><pri><NR_HK>$
+[/5vYyWmFyUw94]
+[6XY7tN4bGZIU#0] ^ukan<vbsint><pri><NR_HU><NK_GU>$
+[/6XY7tN4bGZIU]
+[77VJCVqQrK8b#0] ^izan<vbsint><pri><NR_GU><NI_HU>$
+[/77VJCVqQrK8b]
+[8EsLw8NgkUjW#0] ^Zapata<n>$ ^a<det><art><pl>$ ^erosi<vblex><izen>$ ^ra<post>$ ^joan<vblex><pp>$ ^izan<vbsint><pri><NR_NI>$
+[/8EsLw8NgkUjW]
+[8F5gfy0_rSTw#0] ^ukan<vbsint><pri><NR_GU><NK_HK>$
+[/8F5gfy0_rSTw]
+[8u7YcNqBUuSP#0] ^irail<n>$ ^a<det><art><sg>$
+[/8u7YcNqBUuSP]
+[BVpdfZTm0ZtY#0] ^izan<vbsint><pri><NR_NI>$
+[/BVpdfZTm0ZtY]
+[DcKESZS9S7nX#0] ^*Pilotariak$ ^eta<cnjcoo>$ ^jarraitzaile<n>$ ^a<det><art><sg>$ ^k<post>$ ^gustura<adv>$ ^agertu<vblex><pp>$ ^izan<vbsint><pri><NR_HK>$ ^Bilbo<np><loc>$ ^ko<post>$ ^*Miribila$ ^auzo<n>$ ^a<det><art><sg>$ ^ko<post>$ ^pilotaleku<n>$ ^berri<adj><izo>$ ^a<det><art><sg>$ ^ekin<post>$^.<sent>$
+[/DcKESZS9S7nX]
+[FY5C9Qq_ZjnS#0] ^Kasu<n>$ ^ik<post>$ ^ez<adv>$ ^egin<vblex><izen>$ ^a<det><art><sg>$ ^ekin<post>$^,<cm>$ ^egin<vblex><padv>$ ^eduki<vbsint><pri><NR_HU><NK_ZU>$
+[/FY5C9Qq_ZjnS]
+[H5ut43CGeh6x#0] ^ukan<vbsint><pii><NR_HI><NK_HK>$
+[/H5ut43CGeh6x]
+[HQJQG8MOOEwU#0] ^abendu<n>$ ^a<det><art><sg>$
+[/HQJQG8MOOEwU]
+[HS8QjXa_Dmd0#0] ^asteazken<n>$^,<cm>$ ^asteazken<n>$ ^a<det><art><sg>$
+[/HS8QjXa_Dmd0]
+[HYJf5_w6pjnU#0] ^gaizki<adv>$
+[/HYJf5_w6pjnU]
+[HfRedsp60Mij#0] ^Paue<np><loc>$ ^an<post>$ ^egon<vblex><pp>$ ^behar izan<vbper><pri><NR_HU><NK_GU>$^,<cm>$ ^tokikotu<vblex><inf>$ ^dinamika<n>$ ^a<det><art><sg>$ ^i<post>$ ^segida<n>$ ^a<det><art><sg>$ ^eman<vblex><izen>$ ^ko<post>$^.<sent>$
+[/HfRedsp60Mij]
+[IrM-JHULQptA#0] ^astelehen<n>$^,<cm>$ ^astelehen<n>$ ^a<det><art><sg>$
+[/IrM-JHULQptA]
+[K-3YHDxkPpBe#0] ^urri<n>$ ^a<det><art><sg>$
+[/K-3YHDxkPpBe]
+[K3SnmZ-yD06a#0] ^kasu<n>$ ^ik<post>$ ^ez<adv>$ ^egin<vblex><izen>$ ^a<det><art><sg>$ ^ekin<post>$^.<sent>$
+[/K3SnmZ-yD06a]
+[KSy69mRYvcM9#0] ^ostegun<n>$^,<cm>$ ^ostegun<n>$ ^a<det><art><sg>$
+[/KSy69mRYvcM9]
+[KTq1i-_L9TiU#0] ^Euskara<n>$ ^a<det><art><sg>$ ^ni<prn><pers><p1><sg>$ ^en<post>$ ^bizitza<n>$ ^a<det><art><sg>$ ^an<post>$
+[/KTq1i-_L9TiU]
+[LugX231Hf8ra#0] ^aurreikusi<vblex><pp>$
+[/LugX231Hf8ra]
+[MUrTTIzUye5S#0] ^martxo<n>$ ^a<det><art><sg>$
+[/MUrTTIzUye5S]
+[NT3MMIT6uiFm#0] ^apaiz<n>$
+[/NT3MMIT6uiFm]
+[QAfvlx6UrpLy#0] ^hitz<n>$
+[/QAfvlx6UrpLy]
+[RI-IO8LjFgNx#0] ^*horzgabe$
+[/RI-IO8LjFgNx]
+[RU_HPPVUpjdd#0] ^*abiarazi$
+[/RU_HPPVUpjdd]
+[RhL_254kzaKV#0] ^*ganoragabe$
+[/RhL_254kzaKV]
+[Rw6znswAjGcD#0] ^izan<vbsint><pri><NR_HK><NI_ZU>$
+[/Rw6znswAjGcD]
+[S4Dp2NpwilMp#0] ^ostiral<n>$^,<cm>$ ^ostiral<n>$ ^a<det><art><sg>$
+[/S4Dp2NpwilMp]
+[VnEAUGZQRRH2#0] ^gizon<n>$ ^hori<det><dem><sg>$ ^ekin<post>$
+[/VnEAUGZQRRH2]
+[Vqk53-If88VO#0] ^*Teilatupe$ ^bera<adj><izo>$ ^an<post>$ ^bizi izan<vbper><pii><NR_GU>$ ^hiru<n>$ ^familia<n>$ ^o<det><art><pl>$ ^izan<vbsint><pii><NR_GU>$ ^euskaldun<adj><izo>$ ^garbi<adj><izo>$ ^a<det><art><sg>$ ^k<post>$^.<sent>$
+[/Vqk53-If88VO]
+[WffHWcrK6Ykc#0] ^maiatz<n>$ ^a<det><art><sg>$
+[/WffHWcrK6Ykc]
+[XngcpYGrIIPb#0] ^ekain<n>$ ^a<det><art><sg>$
+[/XngcpYGrIIPb]
+[Z1blbWl3JPCL#0] ^Gu<prn><pers><p1><pl>$ ^en<post>$ ^auzo<n>$ ^a<det><art><sg>$ ^an<post>$ ^ni<prn><pers><p1><sg>$ ^en<post>$ ^ume<n>$ ^ko<post>$ ^lagun<n>$ ^guzti<det><ind><sg>$ ^k<post>$ ^ere<adv>$ ^neuretu<vblex><inf>$ ^hantu<vblex><izen>$ ^ra<post>$ ^egon<vbsint><pri><NR_HK><NO>$^.<sent>$
+[/Z1blbWl3JPCL]
+[_oEbQaFWWUnU#0] ^igande<n>$ ^a<det><art><sg>$
+[/_oEbQaFWWUnU]
+[agGsQfWHemJd#0] ^fedegabe<n>$
+[/agGsQfWHemJd]
+[bgbHUbaks1At#0] ^Hemen<adv>$ ^tik<post>$ ^aurrera<adv><gen>$ ^erritmo<n>$ ^a<det><art><sg>$ ^jaitsi<vblex><pfut>$ ^ukan<vbsint><pri><NR_HU><NK_NI>$
+[/bgbHUbaks1At]
+[cerOruMLhIBR#0] ^esan<vblex><izen>$ ^a<det><art><sg>$ ^ibili<vblex><izen>$ ^a<det><art><sg>$ ^ibili<vblex><ger>$ ^etorri<vblex><ger>$ ^izan<vblex><izen>$ ^a<det><art><sg>$
+[/cerOruMLhIBR]
+[ewdBgrQvUs8Q#0] ^otsail<n>$ ^a<det><art><sg>$
+[/ewdBgrQvUs8Q]
+[fsRVEk1cM6yY#0] ^*kemengabe$
+[/fsRVEk1cM6yY]
+[g6Bl6tzV30pF#0] ^izan<vbsint><pri><NR_ZK>$
+[/g6Bl6tzV30pF]
+[gOGA2YwFBkhB#0] ^Ezker<n>$ ^belaun<n>$ ^a<det><art><sg>$ ^an<post>$ ^*tendinitisa$ ^ukan<vbsint><pri><NR_HU><NK_HU>$ ^*iberoarrak$^,<cm>$ ^*baita$ ^bi<num><pl>$ ^esku<n>$ ^a<det><art><pl>$ ^an<post>$ ^ere<adv>$^.<sent>$
+[/gOGA2YwFBkhB]
+[hIByt9EvCILO#0] ^Mesede<n>$ ^a<det><art><sg>$ ^eskatu<vblex><pp>$ ^z<post>$ ^gero<spost>$^,<cm>$ ^egin<vblex><pfut>$ ^ukan<vbsint><pri><NR_HU><NI_ZU><NK_HU>$^.<sent>$
+[/hIByt9EvCILO]
+[hvuB8SUwmfu1#0] ^apiril<n>$ ^a<det><art><sg>$
+[/hvuB8SUwmfu1]
+[jR1jTHm9Ll7U#0] ^*adigabe$
+[/jR1jTHm9Ll7U]
+[kUYaAbb3RIbp#0] ^izan<vbsint><pii><NR_ZU>$
+[/kUYaAbb3RIbp]
+[kuSszT1B1j_n#0] ^zendu<vblex><inf>$
+[/kuSszT1B1j_n]
+[l3Oa9Xj27YEk#0] ^azaro<n>$ ^a<det><art><sg>$
+[/l3Oa9Xj27YEk]
+[mukVCCiTvDvK#0] ^*Olaizola$ ^II<adj><izl><rom>$^.<sent>$^*a$-^*Begino$ ^eta<cnjcoo>$ ^*Irujo$-^*Merino$ ^II<adj><izl><rom>$^.<sent>$^*a$ ^bikote<n>$ ^a<det><art><pl>$ ^k<post>$ ^larunbat<n>$ ^a<det><art><sg>$ ^an<post>$ ^han<adv>$ ^jokatu<vblex><pfut>$ ^ukan<vbsint><pri><NR_HU><NK_HK>$ ^*Binakako$ ^Txapelketa<n>$ ^a<det><art><sg>$ ^ko<post>$ ^lehen<n>$ ^finalerdi<n>$ ^a<det><art><sg>$^.<sent>$
+[/mukVCCiTvDvK]
+[njjfMvWLd6KH#0] ^burugabetu<vblex><inf>$
+[/njjfMvWLd6KH]
+[o2OicTml9dJ6#0] ^*Teilatupe$ ^bera<adj><izo>$ ^an<post>$ ^bizi izan<vbper><pii><NR_GU>$ ^hiru<n>$ ^familia<n>$ ^o<det><art><pl>$ ^k<post>$ ^hiru<num><pl>$ ^a<det><art><pl>$ ^izan<vbsint><pii><NR_GU>$ ^euskaldun<adj><izo>$ ^garbi<adj><izo>$ ^a<det><art><sg>$ ^k<post>$^.<sent>$
+[/o2OicTml9dJ6]
+[pBbpynhbSqAR#0] ^astearte<n>$^,<cm>$ ^astearte<n>$ ^a<det><art><sg>$
+[/pBbpynhbSqAR]
+[qMgyUxEFKz-Z#0] ^ukan<vbsint><pri><NR_HU><NI_ZU><NK_NI>$
+[/qMgyUxEFKz-Z]
+[quoZq4707s8Y#0] ^Ordu<n>$ ^a<det><art><sg>$ ^ko<post>$ ^*seminarioan$ ^*pausu$ ^hori<det><dem><sg>$ ^eman<vblex><izen>$ ^a<det><art><sg>$ ^ez<adv>$ ^izan<vbsint><pii><NR_HU>$ ^*makala$^.<sent>$
+[/quoZq4707s8Y]
+[qw42uj9v8Fi6#0] ^Bai<adv>$ ^etxe<n>$ ^a<det><art><sg>$ ^an<post>$ ^eta<cnjcoo>$ ^bai<adv>$ ^auzoan<adv>$ ^ez<adv>$ ^ukan<vbsint><pii><NR_HU><NK_GU>$ ^beste<adj><izl>$ ^ik<post>$ ^egin<vblex><ger>$^.<sent>$
+[/qw42uj9v8Fi6]
+[u0M94XmZjx0j#0] ^adierazi<vblex><pp>$
+[/u0M94XmZjx0j]
+[xPsBIlWOufSR#0] ^Erritmo<n>$ ^a<det><art><sg>$ ^jaitsi<vblex><pfut>$ ^ukan<vbsint><pri><NR_HU><NK_NI>$^.<sent>$
+[/xPsBIlWOufSR]
+[z6y_gKkkS44V#0] ^*Edurne$ ^*Pasaban$ ^mendizale<n>$ ^a<det><art><sg>$ ^i<post>$ ^egin<vblex><padv>$ ^ko<post>$ ^elkarrizketa<n>$ ^a<det><art><sg>$ ^argitaratu<vblex><pfut>$ ^ukan<vbsint><pri><NR_HU><NK_HU>$ ^bihar<adv>$ ^Berri<n>$ ^a<det><art><sg>$ ^k<post>$^.<sent>$
+[/z6y_gKkkS44V]

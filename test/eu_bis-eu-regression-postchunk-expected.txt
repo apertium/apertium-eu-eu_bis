@@ -1,0 +1,80 @@
+[-Dyd9wNwhUU7#0] ^*gabonila$
+[/-Dyd9wNwhUU7]
+[-bqV1gJL37xW#0] ^*heustazan$
+[/-bqV1gJL37xW]
+[0qKyPMLpSMAj#0] ^Hauek<det><dem><pl>+k<post>$ ^ume<n>+a<det><art><pl>$
+[/0qKyPMLpSMAj]
+[1r23w-WniYEX#0] ^*zan$
+[/1r23w-WniYEX]
+[2SLA30aXKHDm#0] ^*antzbako$
+[/2SLA30aXKHDm]
+[5Ay22CYR4FRz#0] ^*heustan$
+[/5Ay22CYR4FRz]
+[8u7YcNqBUuSP#0] ^Irail<n>+a<det><art><sg>$
+[/8u7YcNqBUuSP]
+[9A79vuwSv7Jp#0] ^Mesede<n>+a<det><art><sg>$ ^eskatu<vblex><pp>+z<post>$ ^gero<spost>$^,<cm>$ ^egin<vblex><pfut>$ ^eutsi<vbsint><pri><NR_HU><NI_ZU><NK_HU>$^.<sent>$
+[/9A79vuwSv7Jp]
+[FAwGiS8TGTN3#0] ^*bariku$^,<cm>$ ^*barikua$
+[/FAwGiS8TGTN3]
+[H1xf3ENGiM-Q#0] ^*Etorteko$ ^Izan<vblex><pp>$ ^izan<vbsint><pri><NR_HU>$^,<cm>$ ^baina<cnjcoo>$ ^telefono<n>+z<post>$ ^deitu<vblex><pp>$ ^*dau$ ^ezindu<vblex><inf>$ ^*dala$ ^etorri<vblex><pp>$^.<sent>$
+[/H1xf3ENGiM-Q]
+[Hkz_RpH0C7ZH#0] ^*eguazten$^,<cm>$ ^*eguaztena$
+[/Hkz_RpH0C7ZH]
+[K-3YHDxkPpBe#0] ^Urri<n>+a<det><art><sg>$
+[/K-3YHDxkPpBe]
+[KYvOUpzY-qL-#0] ^*eguen$^,<cm>$ ^*eguena$
+[/KYvOUpzY-qL-]
+[Ko1bADStQprr#0] ^*kemenbako$
+[/Ko1bADStQprr]
+[LkYSpyuCTWx3#0] ^Hauek<det><dem><pl>+k<post>$ ^ume<n>+o<det><art><pl>$
+[/LkYSpyuCTWx3]
+[Mvyf0ye4Iw9F#0] ^ukan<vbsint><pii><NR_NI><TO>$
+[/Mvyf0ye4Iw9F]
+[OWLmwr7Nk6lk#0] ^*ganorabako$
+[/OWLmwr7Nk6lk]
+[RokYMhxiH7_W#0] ^*zemendia$
+[/RokYMhxiH7_W]
+[T5smEb3kq_YX#0] ^*jatzuz$
+[/T5smEb3kq_YX]
+[TdAPz-gzYkLj#0] ^*dogu$
+[/TdAPz-gzYkLj]
+[UKYtAXr74EFB#0] ^Gizon<n>$ ^Hori<det><dem><sg>+ekin<post>$
+[/UKYtAXr74EFB]
+[W6ggaudtl4u1#0] ^*jorraila$
+[/W6ggaudtl4u1]
+[WffHWcrK6Ykc#0] ^Maiatz<n>+a<det><art><sg>$
+[/WffHWcrK6Ykc]
+[XtUfV_Hvz1ZB#0] ^*zarie$
+[/XtUfV_Hvz1ZB]
+[aX1CsSPVu2Uy#0] ^*zezeila$
+[/aX1CsSPVu2Uy]
+[eaLgY-l1ZVB9#0] ^*ilen$^,<cm>$ ^*ilena$
+[/eaLgY-l1ZVB9]
+[gZx0fCuwiPGO#0] ^*garagarrila$
+[/gZx0fCuwiPGO]
+[h3Yjmy-HOkLs#0] ^*martia$
+[/h3Yjmy-HOkLs]
+[lH6P0qJzPhxy#0] ^*haginbako$
+[/lH6P0qJzPhxy]
+[m-BERTpBMZkq#0] ^*gintxatzuzan$
+[/m-BERTpBMZkq]
+[nZkjxzA1-BgJ#0] ^*gaitue$
+[/nZkjxzA1-BgJ]
+[nbNoMVEMwN7O#0] ^*burubako$
+[/nbNoMVEMwN7O]
+[ogktZqacgOwM#0] ^*bagila$
+[/ogktZqacgOwM]
+[ovtaC799jpr_#0] ^*agorrila$
+[/ovtaC799jpr_]
+[pYPeB-M4Ed7O#0] ^ukan<vbsint><pii><NR_HU><NI_HINO><NK_HU>$
+[/pYPeB-M4Ed7O]
+[qYC2CmC4FvpJ#0] ^*gatxakoz$
+[/qYC2CmC4FvpJ]
+[u0P73J2gN5Ug#0] ^*naz$
+[/u0P73J2gN5Ug]
+[wBPkBub_wnEJ#0] ^*deutsut$
+[/wBPkBub_wnEJ]
+[wrPhgYGzVQmq#0] ^*fedebako$
+[/wrPhgYGzVQmq]
+[xJCcCvolUwey#0] ^ukan<vbsint><pii><NR_HI><NK_HU>$
+[/xJCcCvolUwey]

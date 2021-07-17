@@ -1,0 +1,80 @@
+[-Dyd9wNwhUU7#0] ^unknown<unknown>{^*gabonila$}$
+[/-Dyd9wNwhUU7]
+[-bqV1gJL37xW#0] ^unknown<unknown>{^*heustazan$}$
+[/-bqV1gJL37xW]
+[0qKyPMLpSMAj#0] ^Det_post<SP><ERG>{^hauek<det><dem><pl>+k<post>$}$ ^nom_art<SN><pl>{^ume<n>+a<det><art><pl>$}$
+[/0qKyPMLpSMAj]
+[1r23w-WniYEX#0] ^unknown<unknown>{^*zan$}$
+[/1r23w-WniYEX]
+[2SLA30aXKHDm#0] ^unknown<unknown>{^*antzbako$}$
+[/2SLA30aXKHDm]
+[5Ay22CYR4FRz#0] ^unknown<unknown>{^*heustan$}$
+[/5Ay22CYR4FRz]
+[8u7YcNqBUuSP#0] ^Nom_art<SN><sg>{^irail<n>+a<det><art><sg>$}$
+[/8u7YcNqBUuSP]
+[9A79vuwSv7Jp#0] ^Nom_art<SN><sg>{^mesede<n>+a<det><art><sg>$}$ ^vb_spost<SUBADV><pp>{^eskatu<vblex><pp>+z<post>$ ^gero<spost>$}$^default<default>{^,<cm>$}$ ^default<default>{^egin<vblex><pfut>$}$ ^default<default>{^eutsi<vbsint><pri><NR_HU><NI_ZU><NK_HU>$}$^default<default>{^.<sent>$}$
+[/9A79vuwSv7Jp]
+[FAwGiS8TGTN3#0] ^unknown<unknown>{^*bariku$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*barikua$}$
+[/FAwGiS8TGTN3]
+[H1xf3ENGiM-Q#0] ^unknown<unknown>{^*Etorteko$}$ ^Pp<SV><pp>{^izan<vblex><2>$}$ ^default<default>{^izan<vbsint><pri><NR_HU>$}$^default<default>{^,<cm>$}$ ^default<default>{^baina<cnjcoo>$}$ ^nom_post<SP><POST>{^telefono<n>+z<post>$}$ ^pp<SV><pp>{^deitu<vblex><2>$}$ ^unknown<unknown>{^*dau$}$ ^default<default>{^ezindu<vblex><inf>$}$ ^unknown<unknown>{^*dala$}$ ^pp<SV><pp>{^etorri<vblex><2>$}$^default<default>{^.<sent>$}$
+[/H1xf3ENGiM-Q]
+[Hkz_RpH0C7ZH#0] ^unknown<unknown>{^*eguazten$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*eguaztena$}$
+[/Hkz_RpH0C7ZH]
+[K-3YHDxkPpBe#0] ^Nom_art<SN><sg>{^urri<n>+a<det><art><sg>$}$
+[/K-3YHDxkPpBe]
+[KYvOUpzY-qL-#0] ^unknown<unknown>{^*eguen$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*eguena$}$
+[/KYvOUpzY-qL-]
+[Ko1bADStQprr#0] ^unknown<unknown>{^*kemenbako$}$
+[/Ko1bADStQprr]
+[LkYSpyuCTWx3#0] ^Det_post<SP><ERG>{^hauek<det><dem><pl>+k<post>$}$ ^nom_art<SN><pl>{^ume<n>+o<det><art><pl>$}$
+[/LkYSpyuCTWx3]
+[Mvyf0ye4Iw9F#0] ^default<default>{^ukan<vbsint><pii><NR_NI><TO>$}$
+[/Mvyf0ye4Iw9F]
+[OWLmwr7Nk6lk#0] ^unknown<unknown>{^*ganorabako$}$
+[/OWLmwr7Nk6lk]
+[RokYMhxiH7_W#0] ^unknown<unknown>{^*zemendia$}$
+[/RokYMhxiH7_W]
+[T5smEb3kq_YX#0] ^unknown<unknown>{^*jatzuz$}$
+[/T5smEb3kq_YX]
+[TdAPz-gzYkLj#0] ^unknown<unknown>{^*dogu$}$
+[/TdAPz-gzYkLj]
+[UKYtAXr74EFB#0] ^default<default>{^Gizon<n>$}$ ^Det_post<SP><AGAZ>{^hori<det><dem><sg>+ekin<post>$}$
+[/UKYtAXr74EFB]
+[W6ggaudtl4u1#0] ^unknown<unknown>{^*jorraila$}$
+[/W6ggaudtl4u1]
+[WffHWcrK6Ykc#0] ^Nom_art<SN><sg>{^maiatz<n>+a<det><art><sg>$}$
+[/WffHWcrK6Ykc]
+[XtUfV_Hvz1ZB#0] ^unknown<unknown>{^*zarie$}$
+[/XtUfV_Hvz1ZB]
+[aX1CsSPVu2Uy#0] ^unknown<unknown>{^*zezeila$}$
+[/aX1CsSPVu2Uy]
+[eaLgY-l1ZVB9#0] ^unknown<unknown>{^*ilen$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*ilena$}$
+[/eaLgY-l1ZVB9]
+[gZx0fCuwiPGO#0] ^unknown<unknown>{^*garagarrila$}$
+[/gZx0fCuwiPGO]
+[h3Yjmy-HOkLs#0] ^unknown<unknown>{^*martia$}$
+[/h3Yjmy-HOkLs]
+[lH6P0qJzPhxy#0] ^unknown<unknown>{^*haginbako$}$
+[/lH6P0qJzPhxy]
+[m-BERTpBMZkq#0] ^unknown<unknown>{^*gintxatzuzan$}$
+[/m-BERTpBMZkq]
+[nZkjxzA1-BgJ#0] ^unknown<unknown>{^*gaitue$}$
+[/nZkjxzA1-BgJ]
+[nbNoMVEMwN7O#0] ^unknown<unknown>{^*burubako$}$
+[/nbNoMVEMwN7O]
+[ogktZqacgOwM#0] ^unknown<unknown>{^*bagila$}$
+[/ogktZqacgOwM]
+[ovtaC799jpr_#0] ^unknown<unknown>{^*agorrila$}$
+[/ovtaC799jpr_]
+[pYPeB-M4Ed7O#0] ^default<default>{^ukan<vbsint><pii><NR_HU><NI_HINO><NK_HU>$}$
+[/pYPeB-M4Ed7O]
+[qYC2CmC4FvpJ#0] ^unknown<unknown>{^*gatxakoz$}$
+[/qYC2CmC4FvpJ]
+[u0P73J2gN5Ug#0] ^unknown<unknown>{^*naz$}$
+[/u0P73J2gN5Ug]
+[wBPkBub_wnEJ#0] ^unknown<unknown>{^*deutsut$}$
+[/wBPkBub_wnEJ]
+[wrPhgYGzVQmq#0] ^unknown<unknown>{^*fedebako$}$
+[/wrPhgYGzVQmq]
+[xJCcCvolUwey#0] ^default<default>{^ukan<vbsint><pii><NR_HI><NK_HU>$}$
+[/xJCcCvolUwey]

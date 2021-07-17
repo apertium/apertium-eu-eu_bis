@@ -1,0 +1,80 @@
+[-Dyd9wNwhUU7#0] ^gabonila/*gabonila$
+[/-Dyd9wNwhUU7]
+[-bqV1gJL37xW#0] ^heustazan/*heustazan$
+[/-bqV1gJL37xW]
+[0qKyPMLpSMAj#0] ^Honeek/Honeek<det><dem><pl>/Honeek<det><dem><pl>+k<post>$ ^umeak/ume<n>+a<det><art><pl>/ume<n>+a<det><art><sg>+k<post>$
+[/0qKyPMLpSMAj]
+[1r23w-WniYEX#0] ^zan/*zan$
+[/1r23w-WniYEX]
+[2SLA30aXKHDm#0] ^antzbako/*antzbako$
+[/2SLA30aXKHDm]
+[5Ay22CYR4FRz#0] ^heustan/*heustan$
+[/5Ay22CYR4FRz]
+[8u7YcNqBUuSP#0] ^iraila/irail<n>+a<det><art><sg>$
+[/8u7YcNqBUuSP]
+[9A79vuwSv7Jp#0] ^Mesedea/Mesede<n>+a<det><art><sg>$ ^eskatu/eskatu<vblex><pp>$ ^ezkero/ezkero<spost>$^,/,<cm>$ ^egingo/egin<vblex><pfut>$ ^deutsu/eutsi<vbsint><pri><NR_HU><NI_ZU><NK_HU>$^./.<sent>$
+[/9A79vuwSv7Jp]
+[FAwGiS8TGTN3#0] ^bariku/*bariku$^,/,<cm>$ ^barikua/*barikua$
+[/FAwGiS8TGTN3]
+[H1xf3ENGiM-Q#0] ^Etorteko/*Etorteko$ ^izan/izan<n>/izan<vblex><inf>/izan<vblex><pp>$ ^da/izan<vbsint><pri><NR_HU>$^,/,<cm>$ ^baina/bainatu<vblex><inf>/baina<cnjcoo>$ ^telefonoz/telefono<n>+z<post>$ ^deitu/deitu<vblex><pp>$ ^dau/*dau$ ^ezin/ezin<n>/ezindu<vblex><inf>/ezin<adv>$ ^dala/*dala$ ^etorri/etorri<vblex><pp>/etorri<n>$^./.<sent>$
+[/H1xf3ENGiM-Q]
+[Hkz_RpH0C7ZH#0] ^eguazten/*eguazten$^,/,<cm>$ ^eguaztena/*eguaztena$
+[/Hkz_RpH0C7ZH]
+[K-3YHDxkPpBe#0] ^urria/urri<n>+a<det><art><sg>/urri<adj><izo>+a<det><art><sg>$
+[/K-3YHDxkPpBe]
+[KYvOUpzY-qL-#0] ^eguen/*eguen$^,/,<cm>$ ^eguena/*eguena$
+[/KYvOUpzY-qL-]
+[Ko1bADStQprr#0] ^kemenbako/*kemenbako$
+[/Ko1bADStQprr]
+[LkYSpyuCTWx3#0] ^Honeek/Honeek<det><dem><pl>/Honeek<det><dem><pl>+k<post>$ ^umeok/ume<n>+o<det><art><pl>/ume<n>+o<det><art><pl>+k<post>$
+[/LkYSpyuCTWx3]
+[Mvyf0ye4Iw9F#0] ^ninduan/ukan<vbsint><pii><NR_NI><NK_HITO>/ukan<vbsint><pii><NR_NI><TO>$
+[/Mvyf0ye4Iw9F]
+[OWLmwr7Nk6lk#0] ^ganorabako/*ganorabako$
+[/OWLmwr7Nk6lk]
+[RokYMhxiH7_W#0] ^zemendia/*zemendia$
+[/RokYMhxiH7_W]
+[T5smEb3kq_YX#0] ^jatzuz/*jatzuz$
+[/T5smEb3kq_YX]
+[TdAPz-gzYkLj#0] ^dogu/*dogu$
+[/TdAPz-gzYkLj]
+[UKYtAXr74EFB#0] ^Gizon/Gizon<n>$ ^horregaz/hori<det><dem><sg>+gaz<post>/horreek<det><dem><pl>+gaz<post>$
+[/UKYtAXr74EFB]
+[W6ggaudtl4u1#0] ^jorraila/*jorraila$
+[/W6ggaudtl4u1]
+[WffHWcrK6Ykc#0] ^maiatza/maiatz<n>+a<det><art><sg>$
+[/WffHWcrK6Ykc]
+[XtUfV_Hvz1ZB#0] ^zarie/*zarie$
+[/XtUfV_Hvz1ZB]
+[aX1CsSPVu2Uy#0] ^zezeila/*zezeila$
+[/aX1CsSPVu2Uy]
+[eaLgY-l1ZVB9#0] ^ilen/*ilen$^,/,<cm>$ ^ilena/*ilena$
+[/eaLgY-l1ZVB9]
+[gZx0fCuwiPGO#0] ^garagarrila/*garagarrila$
+[/gZx0fCuwiPGO]
+[h3Yjmy-HOkLs#0] ^martia/*martia$
+[/h3Yjmy-HOkLs]
+[lH6P0qJzPhxy#0] ^haginbako/*haginbako$
+[/lH6P0qJzPhxy]
+[m-BERTpBMZkq#0] ^gintxatzuzan/*gintxatzuzan$
+[/m-BERTpBMZkq]
+[nZkjxzA1-BgJ#0] ^gaitue/*gaitue$
+[/nZkjxzA1-BgJ]
+[nbNoMVEMwN7O#0] ^burubako/*burubako$
+[/nbNoMVEMwN7O]
+[ogktZqacgOwM#0] ^bagila/*bagila$
+[/ogktZqacgOwM]
+[ovtaC799jpr_#0] ^agorrila/*agorrila$
+[/ovtaC799jpr_]
+[pYPeB-M4Ed7O#0] ^zinan/ukan<vbsint><pii><NR_HU><NK_HU><NO>/ukan<vbsint><pii><NR_HU><NI_HINO><NK_HU>$
+[/pYPeB-M4Ed7O]
+[qYC2CmC4FvpJ#0] ^gatxakoz/*gatxakoz$
+[/qYC2CmC4FvpJ]
+[u0P73J2gN5Ug#0] ^naz/*naz$
+[/u0P73J2gN5Ug]
+[wBPkBub_wnEJ#0] ^deutsut/*deutsut$
+[/wBPkBub_wnEJ]
+[wrPhgYGzVQmq#0] ^fedebako/*fedebako$
+[/wrPhgYGzVQmq]
+[xJCcCvolUwey#0] ^hinduen/ukan<vbsint><pii><NR_HI><NK_HU>$
+[/xJCcCvolUwey]

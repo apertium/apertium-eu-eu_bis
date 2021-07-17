@@ -1,0 +1,130 @@
+[-r7TplLU6EWc#0] ^default<default>{^izan<vbsint><pii><NR_GU><NI_ZU>$}$
+[/-r7TplLU6EWc]
+[-wZgn-HmB6Om#0] ^unknown<unknown>{^*Frontoi$}$ ^Adj_art_post<SP><POST><sg>{^berri<adj><izo>+a<det><art><sg>+an<post>$}$ ^pp<SV><pp>{^izan<vblex><pp>$}$ ^default<default>{^izan<vbsint><pri><NR_HK>$}$ ^adv<ADV>{^gaur<adv>$}$ ^adj_art<SN><sg>{^material<adj><izo>+a<det><art><sg>$}$ ^default<default>{^aukeratu<vblex><ger>$}$^default<default>{^.<sent>$}$
+[/-wZgn-HmB6Om]
+[1ipfrjEN0NWz#0] ^Pp<SV><pp>{^adierazi<vblex><pp>$}$ ^unknown<unknown>{^*abiarazi$}$ ^default<default>{^etorri<n>$}$ ^default<default>{^etorri<vblex><pfut>$}$
+[/1ipfrjEN0NWz]
+[2-YJcRHN9Xcg#0] ^Nom_post<SP><PART>{^kasu<n>+ik<post>$}$ ^vb_bakar<SP><EKIN><pp><sg>{^egin<vblex><3>+a<det><art><sg>+gaz<post>$}$ ^adv_post<ADV><ez>{^ez<adv>+agaz<post>$}$^default<default>{^.<sent>$}$
+[/2-YJcRHN9Xcg]
+[3n2k1Y2uHWh3#0] ^default<default>{^aurreikusi<vblex><padv>$}$
+[/3n2k1Y2uHWh3]
+[43igT51Y9lSx#0] ^Nom_art<SN><sg>{^abuztu<n>+a<det><art><sg>$}$
+[/43igT51Y9lSx]
+[4CpSxS5IdWQj#0] ^Nom_art<SN><pl>{^zapata<n>+a<det><art><pl>$}$ ^vb_post<SP><POST><izen>{^erosi<vblex><izen>+ra<post>$}$ ^default<default>{^joan<vbsint><pri><NR_ZK>$}$
+[/4CpSxS5IdWQj]
+[50zF-jWMPcyD#0] ^Nom_post<SP><GEN>{^Azpeitia<np><loc>+ko<post>$}$ ^nom_art_post<SP><POST><sg>{^urtegi<n>+a<det><art><sg>+an<post>$}$ ^adj_post<SP><PART>{^hil<vblex><pp>+ik<post>$}$ ^vb_post<SP><GEN><padv>{^agertu<vblex><padv>+ko<post>$}$ ^nom_art_post<SP><ERG><sg>{^emakume<n>+a<det><art><sg>+k<post>$}$ ^default<default>{^tiro<n>$}$ ^default<default>{^bat<num><sg>$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NK_HU>$}$^default<default>{^,<cm>$}$ ^nom_art_post<SP><GEN><pl>{^lekuko<n>+a<det><art><pl>+en<post>$}$ ^default<default>{^arabera<spost>$}$^default<default>{^.<sent>$}$
+[/50zF-jWMPcyD]
+[5vYyWmFyUw94#0] ^Prn_post<SP><ERG>{^ni<prn><pers><p1><sg>+k<post>$}$ ^pp<SV><pp>{^eduki<vblex><pp>$}$ ^vb_cnj<SVSUB><pri>{^ukan<vbsint><pri><NR_HU><NK_NI>+n<rel>$}$ ^adj_art_post_art<SN><sg>{^hobe<adj><izo>+en<post>+a<det><art><sg>$}$ ^nom_art<SN><pl>{^taldekide<n>+a<det><art><pl>$}$ ^default<default>{^izan<vbsint><pri><NR_HK>$}$
+[/5vYyWmFyUw94]
+[6XY7tN4bGZIU#0] ^default<default>{^ukan<vbsint><pri><NR_HU><NK_GU>$}$
+[/6XY7tN4bGZIU]
+[77VJCVqQrK8b#0] ^default<default>{^izan<vbsint><pri><NR_GU><NI_HU>$}$
+[/77VJCVqQrK8b]
+[8EsLw8NgkUjW#0] ^Nom_art<SN><pl>{^zapata<n>+a<det><art><pl>$}$ ^vb_post<SP><POST><izen>{^erosi<vblex><izen>+ra<post>$}$ ^pp<SV><pp>{^joan<vblex><pp>$}$ ^default<default>{^izan<vbsint><pri><NR_NI>$}$
+[/8EsLw8NgkUjW]
+[8F5gfy0_rSTw#0] ^default<default>{^ukan<vbsint><pri><NR_GU><NK_HK>$}$
+[/8F5gfy0_rSTw]
+[8u7YcNqBUuSP#0] ^Nom_art<SN><sg>{^irail<n>+a<det><art><sg>$}$
+[/8u7YcNqBUuSP]
+[BVpdfZTm0ZtY#0] ^default<default>{^izan<vbsint><pri><NR_NI>$}$
+[/BVpdfZTm0ZtY]
+[DcKESZS9S7nX#0] ^unknown<unknown>{^*Pilotariak$}$ ^default<default>{^eta<cnjcoo>$}$ ^Nom_art_post<SP><ERG><sg>{^jarraitzaile<n>+a<det><art><sg>+k<post>$}$ ^adv<ADV>{^gustura<adv>$}$ ^pp<SV><pp>{^agertu<vblex><pp>$}$ ^default<default>{^izan<vbsint><pri><NR_HK>$}$ ^nom_post<SP><GEN>{^Bilbo<np><loc>+ko<post>$}$ ^unknown<unknown>{^*Miribila$}$ ^nom_art_post<SP><GEN><sg>{^auzo<n>+a<det><art><sg>+ko<post>$}$ ^default<default>{^pilotaleku<n>$}$ ^adj_art_post<SP><EKIN><sg>{^berri<adj><izo>+a<det><art><sg>+gaz<post>$}$^default<default>{^.<sent>$}$
+[/DcKESZS9S7nX]
+[FY5C9Qq_ZjnS#0] ^Nom_post<SP><PART>{^kasu<n>+ik<post>$}$ ^vb_bakar<SP><EKIN><pp><sg>{^egin<vblex><3>+a<det><art><sg>+gaz<post>$}$ ^adv_post<ADV><ez>{^ez<adv>+agaz<post>$}$^default<default>{^,<cm>$}$ ^default<default>{^egin<vblex><padv>$}$ ^default<default>{^eduki<vbsint><pri><NR_HU><NK_ZU>$}$
+[/FY5C9Qq_ZjnS]
+[H5ut43CGeh6x#0] ^default<default>{^ukan<vbsint><pii><NR_HI><NK_HK>$}$
+[/H5ut43CGeh6x]
+[HQJQG8MOOEwU#0] ^Nom_art<SN><sg>{^abendu<n>+a<det><art><sg>$}$
+[/HQJQG8MOOEwU]
+[HS8QjXa_Dmd0#0] ^default<default>{^asteazken<n>$}$^default<default>{^,<cm>$}$ ^Nom_art<SN><sg>{^asteazken<n>+a<det><art><sg>$}$
+[/HS8QjXa_Dmd0]
+[HYJf5_w6pjnU#0] ^Adv<ADV>{^gaizki<adv>$}$
+[/HYJf5_w6pjnU]
+[HfRedsp60Mij#0] ^Nom_post<SP><POST>{^Paue<np><loc>+an<post>$}$ ^pp<SV><pp>{^egon<vblex><pp>$}$ ^default<default>{^behar izan<vbper><pri><NR_HU><NK_GU>$}$^default<default>{^,<cm>$}$ ^default<default>{^tokikotu<vblex><inf>$}$ ^nom_art_post<SP><POST><sg>{^dinamika<n>+a<det><art><sg>+i<post>$}$ ^nom_art<SN><sg>{^segida<n>+a<det><art><sg>$}$ ^vb_post<SP><GEN><izen>{^eman<vblex><izen>+ko<post>$}$^default<default>{^.<sent>$}$
+[/HfRedsp60Mij]
+[IrM-JHULQptA#0] ^default<default>{^astelehen<n>$}$^default<default>{^,<cm>$}$ ^Nom_art<SN><sg>{^astelehen<n>+a<det><art><sg>$}$
+[/IrM-JHULQptA]
+[K-3YHDxkPpBe#0] ^Nom_art<SN><sg>{^urri<n>+a<det><art><sg>$}$
+[/K-3YHDxkPpBe]
+[K3SnmZ-yD06a#0] ^Nom_post<SP><PART>{^kasu<n>+ik<post>$}$ ^vb_bakar<SP><EKIN><pp><sg>{^egin<vblex><3>+a<det><art><sg>+gaz<post>$}$ ^adv_post<ADV><ez>{^ez<adv>+agaz<post>$}$^default<default>{^.<sent>$}$
+[/K3SnmZ-yD06a]
+[KSy69mRYvcM9#0] ^default<default>{^ostegun<n>$}$^default<default>{^,<cm>$}$ ^Nom_art<SN><sg>{^ostegun<n>+a<det><art><sg>$}$
+[/KSy69mRYvcM9]
+[KTq1i-_L9TiU#0] ^Nom_art<SN><sg>{^euskara<n>+a<det><art><sg>$}$ ^prn_post<SP><GEN>{^ni<prn><pers><p1><sg>+en<post>$}$ ^nom_art_post<SP><POST><sg>{^bizitza<n>+a<det><art><sg>+an<post>$}$
+[/KTq1i-_L9TiU]
+[LugX231Hf8ra#0] ^Pp<SV><pp>{^aurreikusi<vblex><pp>$}$
+[/LugX231Hf8ra]
+[MUrTTIzUye5S#0] ^Nom_art<SN><sg>{^martxo<n>+a<det><art><sg>$}$
+[/MUrTTIzUye5S]
+[NT3MMIT6uiFm#0] ^default<default>{^apaiz<n>$}$
+[/NT3MMIT6uiFm]
+[QAfvlx6UrpLy#0] ^default<default>{^hitz<n>$}$
+[/QAfvlx6UrpLy]
+[RI-IO8LjFgNx#0] ^unknown<unknown>{^*horzgabe$}$
+[/RI-IO8LjFgNx]
+[RU_HPPVUpjdd#0] ^unknown<unknown>{^*abiarazi$}$
+[/RU_HPPVUpjdd]
+[RhL_254kzaKV#0] ^unknown<unknown>{^*ganoragabe$}$
+[/RhL_254kzaKV]
+[Rw6znswAjGcD#0] ^default<default>{^izan<vbsint><pri><NR_HK><NI_ZU>$}$
+[/Rw6znswAjGcD]
+[S4Dp2NpwilMp#0] ^default<default>{^ostiral<n>$}$^default<default>{^,<cm>$}$ ^Nom_art<SN><sg>{^ostiral<n>+a<det><art><sg>$}$
+[/S4Dp2NpwilMp]
+[VnEAUGZQRRH2#0] ^default<default>{^gizon<n>$}$ ^Det_post<SP><EKIN>{^hori<det><dem><sg>+gaz<post>$}$
+[/VnEAUGZQRRH2]
+[Vqk53-If88VO#0] ^unknown<unknown>{^*Teilatupe$}$ ^Adj_post<SP><POST>{^bera<adj><izo>+an<post>$}$ ^default<default>{^bizi izan<vbper><pii><NR_GU>$}$ ^default<default>{^hiru<n>$}$ ^nom_art<SN><pl>{^familia<n>+o<det><art><pl>$}$ ^default<default>{^izan<vbsint><pii><NR_GU>$}$ ^default<default>{^euskaldun<adj><izo>$}$ ^adj_art_post<SP><ERG><sg>{^garbi<adj><izo>+a<det><art><sg>+k<post>$}$^default<default>{^.<sent>$}$
+[/Vqk53-If88VO]
+[WffHWcrK6Ykc#0] ^Nom_art<SN><sg>{^maiatz<n>+a<det><art><sg>$}$
+[/WffHWcrK6Ykc]
+[XngcpYGrIIPb#0] ^Nom_art<SN><sg>{^ekain<n>+a<det><art><sg>$}$
+[/XngcpYGrIIPb]
+[Z1blbWl3JPCL#0] ^Prn_post<SP><GEN>{^gu<prn><pers><p1><pl>+en<post>$}$ ^nom_art_post<SP><POST><sg>{^auzo<n>+a<det><art><sg>+an<post>$}$ ^prn_post<SP><GEN>{^ni<prn><pers><p1><sg>+en<post>$}$ ^nom_post<SP><GEN>{^ume<n>+ko<post>$}$ ^default<default>{^lagun<n>$}$ ^det_post<SP><ERG>{^guzti<det><ind><sg>+k<post>$}$ ^adv<ADV>{^ere<adv>$}$ ^default<default>{^neuretu<vblex><inf>$}$ ^vb_post<SP><POST><izen>{^hantu<vblex><izen>+ra<post>$}$ ^default<default>{^egon<vbsint><pri><NR_HK><NO>$}$^default<default>{^.<sent>$}$
+[/Z1blbWl3JPCL]
+[_oEbQaFWWUnU#0] ^Nom_art<SN><sg>{^igande<n>+a<det><art><sg>$}$
+[/_oEbQaFWWUnU]
+[agGsQfWHemJd#0] ^default<default>{^fedegabe<n>$}$
+[/agGsQfWHemJd]
+[bgbHUbaks1At#0] ^Nom_post<SP><POST>{^hemen<adv>+tik<post>$}$ ^adv<ADV>{^aurrera<adv><gen>$}$ ^nom_art<SN><sg>{^erritmo<n>+a<det><art><sg>$}$ ^default<default>{^jaitsi<vblex><pfut>$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NK_NI>$}$
+[/bgbHUbaks1At]
+[cerOruMLhIBR#0] ^Vb_art<SN><izen><sg>{^esan<vblex><izen>+a<det><art><sg>$}$ ^vb_art<SN><izen><sg>{^ibili<vblex><izen>+a<det><art><sg>$}$ ^default<default>{^ibili<vblex><ger>$}$ ^default<default>{^etorri<vblex><ger>$}$ ^vb_art<SN><izen><sg>{^izan<vblex><izen>+a<det><art><sg>$}$
+[/cerOruMLhIBR]
+[ewdBgrQvUs8Q#0] ^Nom_art<SN><sg>{^otsail<n>+a<det><art><sg>$}$
+[/ewdBgrQvUs8Q]
+[fsRVEk1cM6yY#0] ^unknown<unknown>{^*kemengabe$}$
+[/fsRVEk1cM6yY]
+[g6Bl6tzV30pF#0] ^default<default>{^izan<vbsint><pri><NR_ZK>$}$
+[/g6Bl6tzV30pF]
+[gOGA2YwFBkhB#0] ^default<default>{^Ezker<n>$}$ ^Nom_art_post<SP><POST><sg>{^belaun<n>+a<det><art><sg>+an<post>$}$ ^unknown<unknown>{^*tendinitisa$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NK_HU>$}$ ^unknown<unknown>{^*iberoarrak$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*baita$}$ ^default<default>{^bi<num><pl>$}$ ^nom_art_post<SP><POST><pl>{^esku<n>+a<det><art><pl>+an<post>$}$ ^adv<ADV>{^ere<adv>$}$^default<default>{^.<sent>$}$
+[/gOGA2YwFBkhB]
+[hIByt9EvCILO#0] ^Nom_art<SN><sg>{^mesede<n>+a<det><art><sg>$}$ ^vb_post_spost<SUBADV><pp>{^eskatu<vblex><pp>$ ^ezkero<spost>$}$^default<default>{^,<cm>$}$ ^default<default>{^egin<vblex><pfut>$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NI_ZU><NK_HU>$}$^default<default>{^.<sent>$}$
+[/hIByt9EvCILO]
+[hvuB8SUwmfu1#0] ^Nom_art<SN><sg>{^apiril<n>+a<det><art><sg>$}$
+[/hvuB8SUwmfu1]
+[jR1jTHm9Ll7U#0] ^unknown<unknown>{^*adigabe$}$
+[/jR1jTHm9Ll7U]
+[kUYaAbb3RIbp#0] ^default<default>{^izan<vbsint><pii><NR_ZU>$}$
+[/kUYaAbb3RIbp]
+[kuSszT1B1j_n#0] ^default<default>{^zendu<vblex><inf>$}$
+[/kuSszT1B1j_n]
+[l3Oa9Xj27YEk#0] ^Nom_art<SN><sg>{^azaro<n>+a<det><art><sg>$}$
+[/l3Oa9Xj27YEk]
+[mukVCCiTvDvK#0] ^unknown<unknown>{^*Olaizola$}$ ^default<default>{^II<adj><izl><rom>$}$^default<default>{^.<sent>$}$^unknown<unknown>{^*a$}$-^unknown<unknown>{^*Begino$}$ ^default<default>{^eta<cnjcoo>$}$ ^unknown<unknown>{^*Irujo$}$-^unknown<unknown>{^*Merino$}$ ^default<default>{^II<adj><izl><rom>$}$^default<default>{^.<sent>$}$^unknown<unknown>{^*a$}$ ^Nom_art_post<SP><ERG><pl>{^bikote<n>+a<det><art><pl>+k<post>$}$ ^nom_art_post<SP><POST><sg>{^larunbat<n>+a<det><art><sg>+an<post>$}$ ^adv<ADV>{^han<adv>$}$ ^default<default>{^jokatu<vblex><pfut>$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NK_HK>$}$ ^unknown<unknown>{^*Binakako$}$ ^nom_art_post<SP><GEN><sg>{^Txapelketa<n>+a<det><art><sg>+ko<post>$}$ ^default<default>{^lehen<n>$}$ ^nom_art<SN><sg>{^finalerdi<n>+a<det><art><sg>$}$^default<default>{^.<sent>$}$
+[/mukVCCiTvDvK]
+[njjfMvWLd6KH#0] ^default<default>{^burugabetu<vblex><inf>$}$
+[/njjfMvWLd6KH]
+[o2OicTml9dJ6#0] ^unknown<unknown>{^*Teilatupe$}$ ^Adj_post<SP><POST>{^bera<adj><izo>+an<post>$}$ ^default<default>{^bizi izan<vbper><pii><NR_GU>$}$ ^default<default>{^hiru<n>$}$ ^nom_art_post<SP><ERG><pl>{^familia<n>+o<det><art><pl>+k<post>$}$ ^det_art<SN><pl>{^hiru<num><pl>+a<det><art><pl>$}$ ^default<default>{^izan<vbsint><pii><NR_GU>$}$ ^default<default>{^euskaldun<adj><izo>$}$ ^adj_art_post<SP><ERG><sg>{^garbi<adj><izo>+a<det><art><sg>+k<post>$}$^default<default>{^.<sent>$}$
+[/o2OicTml9dJ6]
+[pBbpynhbSqAR#0] ^default<default>{^astearte<n>$}$^default<default>{^,<cm>$}$ ^Nom_art<SN><sg>{^astearte<n>+a<det><art><sg>$}$
+[/pBbpynhbSqAR]
+[qMgyUxEFKz-Z#0] ^default<default>{^ukan<vbsint><pri><NR_HU><NI_ZU><NK_NI>$}$
+[/qMgyUxEFKz-Z]
+[quoZq4707s8Y#0] ^Nom_art_post<SP><GEN><sg>{^ordu<n>+a<det><art><sg>+ko<post>$}$ ^unknown<unknown>{^*seminarioan$}$ ^unknown<unknown>{^*pausu$}$ ^default<default>{^hori<det><dem><sg>$}$ ^vb_art<SN><izen><sg>{^eman<vblex><izen>+a<det><art><sg>$}$ ^adv<ADV><ez>{^ez<adv>$}$ ^default<default>{^izan<vbsint><pii><NR_HU>$}$ ^unknown<unknown>{^*makala$}$^default<default>{^.<sent>$}$
+[/quoZq4707s8Y]
+[qw42uj9v8Fi6#0] ^Adv<ADV>{^bai<adv>$}$ ^nom_art_post<SP><POST><sg>{^etxe<n>+a<det><art><sg>+an<post>$}$ ^default<default>{^eta<cnjcoo>$}$ ^adv<ADV>{^bai<adv>$}$ ^adv<ADV>{^auzoan<adv>$}$ ^adv<ADV><ez>{^ez<adv>$}$ ^default<default>{^ukan<vbsint><pii><NR_HU><NK_GU>$}$ ^adj_post<SP><PART>{^beste<adj><izl>+ik<post>$}$ ^default<default>{^egin<vblex><ger>$}$^default<default>{^.<sent>$}$
+[/qw42uj9v8Fi6]
+[u0M94XmZjx0j#0] ^Pp<SV><pp>{^adierazi<vblex><pp>$}$
+[/u0M94XmZjx0j]
+[xPsBIlWOufSR#0] ^Nom_art<SN><sg>{^erritmo<n>+a<det><art><sg>$}$ ^default<default>{^jaitsi<vblex><pfut>$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NK_NI>$}$^default<default>{^.<sent>$}$
+[/xPsBIlWOufSR]
+[z6y_gKkkS44V#0] ^unknown<unknown>{^*Edurne$}$ ^unknown<unknown>{^*Pasaban$}$ ^Nom_art_post<SP><POST><sg>{^mendizale<n>+a<det><art><sg>+i<post>$}$ ^vb_post<SP><GEN><padv>{^egin<vblex><padv>+ko<post>$}$ ^nom_art<SN><sg>{^elkarrizketa<n>+a<det><art><sg>$}$ ^default<default>{^argitaratu<vblex><pfut>$}$ ^default<default>{^ukan<vbsint><pri><NR_HU><NK_HU>$}$ ^adv<ADV>{^bihar<adv>$}$ ^nom_art_post<SP><ERG><sg>{^Berri<n>+a<det><art><sg>+k<post>$}$^default<default>{^.<sent>$}$
+[/z6y_gKkkS44V]
